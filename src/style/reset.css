@@ -65,3 +65,36 @@ input {
   outline: none;
   border: none;
 }
+
+input[type="date"]::-webkit-datetime-edit {
+  display: none;
+  -webkit-appearance: none;
+}
+input[type="date"]::-webkit-datetime-edit-fields-wrapper {
+  display: none;
+  -webkit-appearance: none;
+}
+input[type="date"]::-webkit-datetime-edit-text {
+  display: none;
+  -webkit-appearance: none;
+}
+input[type="date"]::-webkit-datetime-edit-month-field {
+  display: none;
+  -webkit-appearance: none;
+}
+input[type="date"]::-webkit-datetime-edit-day-field {
+  display: none;
+  -webkit-appearance: none;
+}
+input[type="date"]::-webkit-datetime-edit-year-field {
+  display: none;
+  -webkit-appearance: none;
+}
+input[type="date"]::-webkit-inner-spin-button {
+  display: none;
+  -webkit-appearance: none;
+}
+input[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+}
