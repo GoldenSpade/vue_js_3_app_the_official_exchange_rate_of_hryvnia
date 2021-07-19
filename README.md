@@ -4,10 +4,10 @@ This app is built on Vue.JS 3. It shows us information about the exchange rate o
 
 ### Technology Stack: ###
 
-* Vue.JS 3;
 * HTML;
 * CSS;
 * JavaScript;
+* Vue.JS 3;
 * Axios library;
 * API.
 
