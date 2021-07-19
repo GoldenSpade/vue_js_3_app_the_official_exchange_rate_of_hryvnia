@@ -6,6 +6,7 @@ This app is built on Vue.JS 3. It shows us information about the exchange rate o
 
 * HTML;
 * CSS;
+* SASS;
 * JavaScript;
 * Vue.JS 3;
 * Axios library;
