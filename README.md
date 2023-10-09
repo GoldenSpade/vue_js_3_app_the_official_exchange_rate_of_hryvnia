@@ -12,4 +12,4 @@ This app is built on Vue.JS 3. It shows us information about the exchange rate o
 * Axios library;
 * API.
 
-[DEMO LINK](https://billizane.github.io/vue_js_3_app_the_official_exchange_rate_of_hryvnia/)
+[DEMO LINK](https://GoldenSpade.github.io/vue_js_3_app_the_official_exchange_rate_of_hryvnia/)
